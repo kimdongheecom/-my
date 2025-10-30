@@ -25,7 +25,7 @@ else:
     print(3)
 print("--------------------------------")
 
-
+print(0)
 
 input_id = input('id: ')
 id1='egoing'
