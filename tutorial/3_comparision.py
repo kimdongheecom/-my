@@ -2,6 +2,9 @@ print(True)
 print(False)
 print(type(True))
 print(type(False))
+print(
+    bool(1),
+)
 
 print('1 == 1', 1 == 1)
 print('1 == 2', 2 == 1)
