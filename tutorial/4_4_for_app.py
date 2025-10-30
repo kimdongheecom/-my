@@ -10,7 +10,10 @@ persons = [
 print(persons[0][2])
 
 print('------------persons--------------------')
-
+print(persons)
+print('------------persons--------------------')
+print(persons)
+print('------------persons--------------------')
 
 for person in persons:
     print(person[0]+','+person[1]+','+person[2])
