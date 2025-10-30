@@ -27,6 +27,8 @@ print("--------------------------------")
 
 print(0)
 
+print(2)
+
 input_id = input('id: ')
 id1='egoing'
 id2='k8805'
